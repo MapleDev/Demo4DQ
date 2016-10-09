@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatlistview/chatlistview.iml" filepath="$PROJECT_DIR$/chatlistview/chatlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatui/chatui.iml" filepath="$PROJECT_DIR$/chatui/chatui.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdatest/lambdatest.iml" filepath="$PROJECT_DIR$/lambdatest/lambdatest.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview_headview/listview_headview.iml" filepath="$PROJECT_DIR$/listview_headview/listview_headview.iml" />
       <module fileurl="file://$PROJECT_DIR$/marqueeviewanim/marqueeviewanim.iml" filepath="$PROJECT_DIR$/marqueeviewanim/marqueeviewanim.iml" />
