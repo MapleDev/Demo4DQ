@@ -11,7 +11,11 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ProgressBar" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/chatlistview" />
+            <option value="$PROJECT_DIR$/lambdatest" />
+            <option value="$PROJECT_DIR$/listview_headview" />
             <option value="$PROJECT_DIR$/marqueeviewanim" />
+            <option value="$PROJECT_DIR$/nine_grild_view" />
             <option value="$PROJECT_DIR$/shache" />
           </set>
         </option>
