@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Demo4DQ.iml" filepath="$PROJECT_DIR$/Demo4DQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoForDQ.iml" filepath="$PROJECT_DIR$/DemoForDQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpannableString/SpannableString.iml" filepath="$PROJECT_DIR$/SpannableString/SpannableString.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
