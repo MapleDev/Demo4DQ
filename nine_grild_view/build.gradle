@@ -31,4 +31,8 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.w4lle.library:NineLayout:1.0.0'
     compile 'com.squareup.picasso:picasso:2.5.2'
+
+    compile 'com.commit451:PhotoView:1.2.4'
+    compile 'org.kymjs.kjframe:kjframe:2.5.1.2'
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.10'
 }

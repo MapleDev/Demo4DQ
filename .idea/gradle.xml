@@ -5,17 +5,20 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="E:\DevProgram\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="gradleHome" value="C:\Android\Android Studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ProgressBar" />
+            <option value="$PROJECT_DIR$/SpannableString" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/chatlistview" />
             <option value="$PROJECT_DIR$/chatui" />
+            <option value="$PROJECT_DIR$/fragmenttabhost_tu" />
             <option value="$PROJECT_DIR$/lambdatest" />
             <option value="$PROJECT_DIR$/listview_headview" />
             <option value="$PROJECT_DIR$/marqueeviewanim" />
+            <option value="$PROJECT_DIR$/multi_text" />
             <option value="$PROJECT_DIR$/nine_grild_view" />
             <option value="$PROJECT_DIR$/shache" />
           </set>

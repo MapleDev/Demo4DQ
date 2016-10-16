@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@color/colorPrimary"
-    tools:context="com.xznn.marqueeviewanim.MainActivity">
+    tools:context="com.kymjs.marqueeviewanim.MainActivity">
 
 
 <!--    <FrameLayout
@@ -36,7 +36,7 @@
         android:layout_height="match_parent"
         />-->
 
-    <com.xznn.marqueeviewanim.VIPCommingMarqueeView
+    <com.kymjs.marqueeviewanim.VIPCommingMarqueeView
         android:id="@+id/ll"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
