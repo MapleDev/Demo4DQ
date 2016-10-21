@@ -28,7 +28,7 @@ public class ChatItemListViewTest extends Activity {
         bean2.setType(1);
         bean2.setIcon(BitmapFactory.decodeResource(getResources(),
                 R.drawable.ic_launcher));
-        bean2.setText("Fine thank you, and you?");
+        bean2.setText("Fine thank you, and you?fdsafdfdsaaaaaaaaafafasaaaaaaaaaaaaaaaaaaaaaaaaaafffffffffffffffffffffffafdasfasdf123");
 
         ChatItemListViewBean bean3 = new ChatItemListViewBean();
         bean3.setType(0);
