@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/multi_text" />
             <option value="$PROJECT_DIR$/nine_grild_view" />
             <option value="$PROJECT_DIR$/shache" />
+            <option value="$PROJECT_DIR$/spinnedlistview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

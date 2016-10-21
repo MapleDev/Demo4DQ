@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DemoForDQ.iml" filepath="$PROJECT_DIR$/DemoForDQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo4DQ.iml" filepath="$PROJECT_DIR$/Demo4DQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpannableString/SpannableString.iml" filepath="$PROJECT_DIR$/SpannableString/SpannableString.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/multi_text/multi_text.iml" filepath="$PROJECT_DIR$/multi_text/multi_text.iml" />
       <module fileurl="file://$PROJECT_DIR$/nine_grild_view/nine_grild_view.iml" filepath="$PROJECT_DIR$/nine_grild_view/nine_grild_view.iml" />
       <module fileurl="file://$PROJECT_DIR$/shache/shache.iml" filepath="$PROJECT_DIR$/shache/shache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinnedlistview/spinnedlistview.iml" filepath="$PROJECT_DIR$/spinnedlistview/spinnedlistview.iml" />
     </modules>
   </component>
 </project>
