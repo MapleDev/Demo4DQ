@@ -1,1 +1,1 @@
-include ':app', ':marqueeviewanim', ':shache', ':ProgressBar', ':lambdatest', ':listview_headview', ':chatlistview', ':nine_grild_view', ':chatui', ':multi_text', ':SpannableString', ':fragmenttabhost_tu', ':spinnedlistview'
+include ':app', ':marqueeviewanim', ':shache', ':ProgressBar', ':lambdatest', ':listview_headview', ':chatlistview', ':nine_grild_view', ':chatui', ':multi_text', ':SpannableString', ':fragmenttabhost_tu', ':spinnedlistview', ':spannablestringbuilder'

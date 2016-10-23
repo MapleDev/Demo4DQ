@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/multi_text/multi_text.iml" filepath="$PROJECT_DIR$/multi_text/multi_text.iml" />
       <module fileurl="file://$PROJECT_DIR$/nine_grild_view/nine_grild_view.iml" filepath="$PROJECT_DIR$/nine_grild_view/nine_grild_view.iml" />
       <module fileurl="file://$PROJECT_DIR$/shache/shache.iml" filepath="$PROJECT_DIR$/shache/shache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spannablestringbuilder/spannablestringbuilder.iml" filepath="$PROJECT_DIR$/spannablestringbuilder/spannablestringbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinnedlistview/spinnedlistview.iml" filepath="$PROJECT_DIR$/spinnedlistview/spinnedlistview.iml" />
     </modules>
   </component>
