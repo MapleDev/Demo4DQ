@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/chatlistview/chatlistview.iml" filepath="$PROJECT_DIR$/chatlistview/chatlistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatui/chatui.iml" filepath="$PROJECT_DIR$/chatui/chatui.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttabhost_tu/fragmenttabhost_tu.iml" filepath="$PROJECT_DIR$/fragmenttabhost_tu/fragmenttabhost_tu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview_divider/gridview_divider.iml" filepath="$PROJECT_DIR$/gridview_divider/gridview_divider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyboardlistener/keyboardlistener.iml" filepath="$PROJECT_DIR$/keyboardlistener/keyboardlistener.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdatest/lambdatest.iml" filepath="$PROJECT_DIR$/lambdatest/lambdatest.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview_headview/listview_headview.iml" filepath="$PROJECT_DIR$/listview_headview/listview_headview.iml" />
       <module fileurl="file://$PROJECT_DIR$/marqueeviewanim/marqueeviewanim.iml" filepath="$PROJECT_DIR$/marqueeviewanim/marqueeviewanim.iml" />
