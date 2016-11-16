@@ -5,9 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Demo4DQ.iml" filepath="$PROJECT_DIR$/Demo4DQ.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpannableString/SpannableString.iml" filepath="$PROJECT_DIR$/SpannableString/SpannableString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_convenientbanner/android_convenientbanner.iml" filepath="$PROJECT_DIR$/android_convenientbanner/android_convenientbanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatlistview/chatlistview.iml" filepath="$PROJECT_DIR$/chatlistview/chatlistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatui/chatui.iml" filepath="$PROJECT_DIR$/chatui/chatui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customtoast/customtoast.iml" filepath="$PROJECT_DIR$/customtoast/customtoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentlazyloading/fragmentlazyloading.iml" filepath="$PROJECT_DIR$/fragmentlazyloading/fragmentlazyloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttabhost_tu/fragmenttabhost_tu.iml" filepath="$PROJECT_DIR$/fragmenttabhost_tu/fragmenttabhost_tu.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridview_divider/gridview_divider.iml" filepath="$PROJECT_DIR$/gridview_divider/gridview_divider.iml" />
       <module fileurl="file://$PROJECT_DIR$/keyboardlistener/keyboardlistener.iml" filepath="$PROJECT_DIR$/keyboardlistener/keyboardlistener.iml" />

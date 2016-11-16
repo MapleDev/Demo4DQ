@@ -17,6 +17,7 @@
         android:layout_height="fill_parent"
         android:layout_marginLeft="-1px"
         android:layout_marginRight="-1px"
+        android:numColumns="2"
         android:listSelector="@android:color/transparent"
         />
 

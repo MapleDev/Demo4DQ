@@ -11,9 +11,12 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ProgressBar" />
             <option value="$PROJECT_DIR$/SpannableString" />
+            <option value="$PROJECT_DIR$/android_convenientbanner" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/chatlistview" />
             <option value="$PROJECT_DIR$/chatui" />
+            <option value="$PROJECT_DIR$/customtoast" />
+            <option value="$PROJECT_DIR$/fragmentlazyloading" />
             <option value="$PROJECT_DIR$/fragmenttabhost_tu" />
             <option value="$PROJECT_DIR$/gridview_divider" />
             <option value="$PROJECT_DIR$/keyboardlistener" />

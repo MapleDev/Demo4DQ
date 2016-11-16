@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="55dp"
+    android:layout_marginRight="55dp"
+    android:background="@drawable/bg_squar_toast"
+    android:paddingBottom="20dp"
+    android:paddingTop="20dp"
+    >
+
+    <LinearLayout
+        android:id="@+id/ll_tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+
+        <com.xznn.customtoast.StrokeTextView
+            android:id="@+id/tv_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="xxx"
+            android:textColor="#FFE802"
+            android:textSize="20sp"
+            />
+
+        <com.xznn.customtoast.StrokeTextView
+            android:id="@+id/tv_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="开着"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            />
+
+        <com.xznn.customtoast.StrokeTextView
+            android:id="@+id/tv_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="xx"
+            android:textColor="#FFE802"
+            android:textSize="20sp"
+            />
+    </LinearLayout>
+
+    <com.xznn.customtoast.StrokeTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_tv1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="闪耀登场"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"/>
+
+</RelativeLayout>
