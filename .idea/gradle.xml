@@ -19,14 +19,16 @@
             <option value="$PROJECT_DIR$/fragmentlazyloading" />
             <option value="$PROJECT_DIR$/fragmenttabhost_tu" />
             <option value="$PROJECT_DIR$/gridview_divider" />
+            <option value="$PROJECT_DIR$/keng" />
             <option value="$PROJECT_DIR$/keyboardlistener" />
             <option value="$PROJECT_DIR$/lambdatest" />
             <option value="$PROJECT_DIR$/listview_headview" />
             <option value="$PROJECT_DIR$/marqueeviewanim" />
             <option value="$PROJECT_DIR$/multi_text" />
             <option value="$PROJECT_DIR$/nine_grild_view" />
-            <option value="$PROJECT_DIR$/spannablestringbuilder" />
             <option value="$PROJECT_DIR$/spinnedlistview" />
+            <option value="$PROJECT_DIR$/temp" />
+            <option value="$PROJECT_DIR$/verticalviewpager" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

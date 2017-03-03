@@ -13,14 +13,16 @@
       <module fileurl="file://$PROJECT_DIR$/fragmentlazyloading/fragmentlazyloading.iml" filepath="$PROJECT_DIR$/fragmentlazyloading/fragmentlazyloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragmenttabhost_tu/fragmenttabhost_tu.iml" filepath="$PROJECT_DIR$/fragmenttabhost_tu/fragmenttabhost_tu.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridview_divider/gridview_divider.iml" filepath="$PROJECT_DIR$/gridview_divider/gridview_divider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keng/keng.iml" filepath="$PROJECT_DIR$/keng/keng.iml" />
       <module fileurl="file://$PROJECT_DIR$/keyboardlistener/keyboardlistener.iml" filepath="$PROJECT_DIR$/keyboardlistener/keyboardlistener.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdatest/lambdatest.iml" filepath="$PROJECT_DIR$/lambdatest/lambdatest.iml" />
       <module fileurl="file://$PROJECT_DIR$/listview_headview/listview_headview.iml" filepath="$PROJECT_DIR$/listview_headview/listview_headview.iml" />
       <module fileurl="file://$PROJECT_DIR$/marqueeviewanim/marqueeviewanim.iml" filepath="$PROJECT_DIR$/marqueeviewanim/marqueeviewanim.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi_text/multi_text.iml" filepath="$PROJECT_DIR$/multi_text/multi_text.iml" />
       <module fileurl="file://$PROJECT_DIR$/nine_grild_view/nine_grild_view.iml" filepath="$PROJECT_DIR$/nine_grild_view/nine_grild_view.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spannablestringbuilder/spannablestringbuilder.iml" filepath="$PROJECT_DIR$/spannablestringbuilder/spannablestringbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinnedlistview/spinnedlistview.iml" filepath="$PROJECT_DIR$/spinnedlistview/spinnedlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temp/temp.iml" filepath="$PROJECT_DIR$/temp/temp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verticalviewpager/verticalviewpager.iml" filepath="$PROJECT_DIR$/verticalviewpager/verticalviewpager.iml" />
     </modules>
   </component>
 </project>
